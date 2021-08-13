@@ -9,7 +9,7 @@
 
 | S.No.    | Topic:                | Problem                                                                                              | Solutions | C++    
 | -------  |:---------------------:|------------------------------------------------------------------------------------------------------|:---------:|--------
-| 1        | `Array`               | Reverse the array                                                                                    |❌         |<a href="#"><img src="https://img.shields.io/badge/Solution-green"></a>  |  <a href="https://github.com/abhishek-singh77/MySolutionDSA-450/blob/main/ReverseTheArray.cpp"></a>  
+| 1        | `Array`               | Reverse the array                                                                                    |✔️         |<a href="#"><img src="https://img.shields.io/badge/Solution-green"></a>  |  <a href="https://github.com/abhishek-singh77/MySolutionDSA-450/blob/main/ReverseTheArray.cpp"></a>  
 | 2        | `Array`               | Find the maximum and minimum element in an array                                                     |❌         |<a href="#"><img src="https://img.shields.io/badge/Solution-red"></a>  |
 | 3        | `Array`               | Find the "Kth" max and min element of an array                                                       |❌         |<a href="#"><img src="https://img.shields.io/badge/Solution-red"></a>  | 
 | 4        | `Array`               | Given an array which consists of only 0, 1 and 2. Sort the array without using any sorting algo      |❌         |<a href="#"><img src="https://img.shields.io/badge/Solution-red"></a>  | 
